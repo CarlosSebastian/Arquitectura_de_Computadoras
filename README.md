@@ -1,1 +1,1 @@
-# Arquitectura_de_Computadoras
+# Arquitectura de Computadoras
