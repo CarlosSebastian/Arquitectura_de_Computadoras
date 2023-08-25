@@ -1,4 +1,4 @@
-## Mux
+## Demux
 
 ## Exercises
 Design a Mux (Multiplexer) 2:1
