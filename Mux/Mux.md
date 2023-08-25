@@ -1,4 +1,4 @@
-## Funciones Juego
+## Mux
 
 Design a Mux (Multiplexer) 2:1
 
